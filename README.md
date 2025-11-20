@@ -4,3 +4,4 @@
 ![Screenshot 2](https://github.com/user-attachments/assets/3f5ddeb1-fcea-43d7-8b14-c741d0439071)
 ![Screenshot 1](https://github.com/user-attachments/assets/162d437b-76d7-47df-bbb2-05be94fafb81)
 
+[**📥 Download dari Google Drive**](https://drive.google.com/file/d/1gvCBr4tcSUHKgPYD-YzsGykiqRoQLhUL/view?usp=sharing)
