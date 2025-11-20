@@ -1,6 +1,6 @@
 # Dream House
 
-**Dream House** adalah aplikasi mobile berbasis Android yang dirancang sebagai platform modern untuk pencarian dan eksplorasi berbagai jenis properti. Aplikasi ini membantu pengguna menemukan hunian yang sesuai dengan kebutuhan mereka—mulai dari rumah tinggal, apartemen, villa, hingga properti komersial lainnya.
+**Dream House** adalah aplikasi mobile berbasis Android yang dirancang sebagai platform modern untuk pencarian dan eksplorasi berbagai jenis properti. Aplikasi ini membantu pengguna menemukan hunian yang sesuai dengan kebutuhan mereka mulai dari rumah tinggal, apartemen, villa, hingga properti komersial lainnya.
 
 Dengan tampilan antarmuka yang bersih, modern, dan interaktif, Dream House memberikan pengalaman pencarian properti yang lebih nyaman dan efisien. Pengguna dapat menjelajahi berbagai kategori properti, melihat rekomendasi lokasi terbaik, hingga menelusuri listing lengkap dengan foto, fasilitas, dan detail informasi properti.
 
