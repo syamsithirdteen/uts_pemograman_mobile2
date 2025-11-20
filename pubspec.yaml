@@ -1,0 +1,32 @@
+name: my_homirx_clone
+description: Homirx-like real estate UI for UTS Mobile Programming 2 (no external packages)
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/banner.jpg
+    - assets/images/property1.jpg
+    - assets/images/property2.jpg
+    - assets/images/property3.jpg
+    - assets/images/location1.jpg
+    - assets/images/location2.jpg
+    - assets/images/location3.jpg
+    - assets/images/location4.jpg
+    - assets/icons/commercial.png
+    - assets/icons/warehouse.png
+    - assets/icons/villa.png
+    - assets/icons/apartment.png
